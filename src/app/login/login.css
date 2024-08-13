@@ -1,0 +1,60 @@
+/* login.css */
+
+.main {
+    background-color: darkgray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh; /* Ensure it covers the viewport height */
+  }
+  
+  .container {
+    border: 2px solid black;
+    height: 60vh;
+    width: 550px;
+    margin-top: 5%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white; /* Make sure container is visible */
+    border-radius: 10px;
+  }
+  
+  .input-css {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start; /* Align items to the start */
+  }
+  
+  .input-css input {
+    width: 170px;
+    height: 4vh;
+    margin: 4px;
+    font-family: cursive;
+  }
+  
+  .input-css button {
+    width: 250px;
+    height: 4vh;
+    margin: 4px;
+    font-family: cursive;
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+
+  .input-css button:hover{
+    color: darkorange;
+  }
+  
+  .input-css a {
+    color: rgb(221, 15, 128);
+    text-decoration: underline;
+  }
+  
+  .input-css a:hover {
+    color: rgb(30, 30, 231);
+  }
+  

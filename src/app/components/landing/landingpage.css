@@ -1,0 +1,19 @@
+.text{
+    width: 260px;
+    height: 35px;
+    border-radius: 10px;
+    margin-top: 10%;
+    margin-left: 30%;
+    
+
+}
+
+.button{
+    height: 36px;
+    margin-left: 4px;
+    background-color: rgb(13, 10, 13);
+    border-radius: 12px;
+    font-style: italic;
+    color: aliceblue;
+    width: 90px;
+}
